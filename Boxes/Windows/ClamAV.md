@@ -1,0 +1,2 @@
+- SNMP enumeration and the vulnerable service was there
+- Always use Searchsploit search and do it use the full service name "\clamav-miller"

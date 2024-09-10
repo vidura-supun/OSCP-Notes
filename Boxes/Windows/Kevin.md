@@ -1,0 +1,2 @@
+- Enumerate and find the exploitable service.
+- Read the exploit and understand, then change it.

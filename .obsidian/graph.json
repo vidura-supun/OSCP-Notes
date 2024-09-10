@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#shells",
+      "color": {
+        "a": 1,
+        "rgb": 906037
+      }
+    },
+    {
+      "query": "tag:#Lessons_Learned",
+      "color": {
+        "a": 1,
+        "rgb": 9110532
+      }
+    },
+    {
+      "query": "tag:#Cheatsheet",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#network",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#tool",
+      "color": {
+        "a": 1,
+        "rgb": 9393384
+      }
+    },
+    {
+      "query": "tag:#webapp",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#scripts",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 2.305,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 9.33203125,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7416732551509704,
+  "close": false
+}

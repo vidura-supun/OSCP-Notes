@@ -1,0 +1,6 @@
+- Initial Access was taken using SSRF/RFI and responder together.
+- From bloodhound found out that remote_ps is enabled.
+- Then the enumeration on bloodhound with the query "Shortest Path to High value accounts" led to gmsa password read for the account svc_apache$ .
+- Retrieved the has logged in using EvilWinrm and figured out that we have **SERESTORE**
+- Renamed utilman.exe to cmd.exe to get a system shell with rdesktop 192.168.248.156 the pressing win+U
+- Changed the administrator password and used impacket.

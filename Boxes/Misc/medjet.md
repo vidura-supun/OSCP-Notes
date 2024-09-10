@@ -1,0 +1,1 @@
+- Pay attention to anomalies like cat pictures and tech related stuff devops/admin/experimental   
